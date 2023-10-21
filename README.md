@@ -1,6 +1,5 @@
 ## Github Statistics and Unfollower Tool
-![github-mark-white](https://github.com/Chardelyce/Gitunfollow/assets/63970461/1c878c69-0eb0-4342-bf41-89cc04002fd2)
-
+![github-mark-white](https://github.com/Chardelyce/Gitunfollow/assets/63970461/dd4386dd-d90b-43e2-bb81-141ae514c8ae)
 
 
 1. Dependencies  

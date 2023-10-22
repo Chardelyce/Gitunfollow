@@ -1,7 +1,7 @@
 ## Github Statistics and Unfollower Tool
 ![github-mark-white](https://github.com/Chardelyce/Gitunfollow/assets/63970461/dd4386dd-d90b-43e2-bb81-141ae514c8ae)
 
-
+unfollows those who do not follow you back :>
 1. Dependencies  
 <pre>pip install pillow</pre> 
 <pre>pip install requests</pre>
